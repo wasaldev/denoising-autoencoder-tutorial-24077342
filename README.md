@@ -39,7 +39,7 @@ In this project, Gaussian noise was added to MNIST digits, and the DAE learned t
 
 | File | Description |
 |------|-------------|
-| `Machine_Learning_Tutorial.ipynb` | Main notebook containing full implementation, training loop, and visualisations |
+| `denoising-autoencoder-tutorial-24077342.ipynb` | Main notebook containing full implementation, training loop, and visualisations |
 | `README.md` | Overview and instructions |
 | `LICENSE` | MIT License |
 | `FIGURES` | Saved visualisation plots and results |
@@ -55,7 +55,7 @@ pip install tensorflow keras matplotlib numpy
 ### 2. Open the notebook
 
 ```bash
-jupyter notebook Machine_Learning_Tutorial.ipynb
+jupyter notebook denoising-autoencoder-tutorial-24077342.ipynb
 ```
 
 ### 3. Run all cells
